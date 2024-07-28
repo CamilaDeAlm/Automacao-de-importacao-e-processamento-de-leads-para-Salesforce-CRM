@@ -1,7 +1,7 @@
 # Automação de importação e processamento de leads para Salesforce CRM
 
 O processo de lead costumava levar horas para ser concluído, mas com a automação, ele foi reduzido para segundos. O processo consistia em extração da base na fonte, limpeza e tratamento
-dos dados, importação e conferência via dataloader.
+dos dados, importação e conferência via dataloader, tudo isso de forma manual.
 
 <div align="center">
 <img src="https://github.com/CamilaDeAlm/Automation-of-Lead-Import-and-Processing-for-Salesforce-CRM/assets/121510557/8de5dd5b-3928-4fe4-93fc-ac6b64eb2843" width="700px" />
